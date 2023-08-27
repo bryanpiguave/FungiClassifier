@@ -84,6 +84,7 @@ def main():
     plt.ylabel("Accuracy")
     plt.xlabel("Epoch")
     plt.legend(["train","validation"],loc="upper left")
+    plt.savefig("training_history.png")
     return
 
 if __name__=="__main__":
