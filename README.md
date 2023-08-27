@@ -20,7 +20,9 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/anshtanwar/mi
 
 # Usage
 
-
+| Model  | Accuracy |
+| ------------- | ------------- |
+| Efficient Net B0  |  65% |
 
 
 # Author 
