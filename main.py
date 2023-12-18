@@ -46,6 +46,9 @@ def main():
     hub.KerasLayer("https://tfhub.dev/tensorflow/efficientnet/b0/classification/1",
                     trainable=True)
     ])
+
+
+
     model.build([None, 224, 224, 3])  # Batch input shape.
 
     model.compile(
