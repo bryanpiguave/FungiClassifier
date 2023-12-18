@@ -18,12 +18,20 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/anshtanwar/mi
 
 # Training 
 
+```
+    python main.py
+```
+
+
 # Usage
+
+# Results
 
 | Model  | Accuracy |
 | ------------- | ------------- |
 | Efficient Net B0  |  65% |
-
+| YOLOv8 nano  |  76.2% |
+| YOLOv8 small  |  83% |
 
 # Author 
 Bryan Piguave
