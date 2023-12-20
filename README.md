@@ -22,7 +22,6 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/anshtanwar/mi
     python main.py
 ```
 
-
 # Usage
 
 # Results
@@ -31,7 +30,9 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/anshtanwar/mi
 | ------------- | ------------- |
 | Efficient Net B0  |  65% |
 | YOLOv8 nano  |  76.2% |
-| YOLOv8 small  |  83% |
+| YOLOv8 small  |  82.4% |
+| YOLOv8 medium  |  80.8% |
+
 
 # Author 
 Bryan Piguave
