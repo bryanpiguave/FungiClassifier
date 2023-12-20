@@ -16,6 +16,10 @@ This tool is designed to classify images of fungi based on their species using a
 
 Download the dataset from [Kaggle](https://www.kaggle.com/datasets/anshtanwar/microscopic-fungi-images) and unzip it.
 
+```
+conda env create -f yolov8.yml
+```
+
 # Training 
 
 ```
@@ -35,4 +39,4 @@ Download the dataset from [Kaggle](https://www.kaggle.com/datasets/anshtanwar/mi
 
 
 # Author 
-Bryan Piguave
+[Bryan Piguave](https://www.linkedin.com/in/bryan-piguave-llano/)
